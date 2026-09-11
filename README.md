@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -30,3 +31,7 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+=======
+# leucine_assignment_ui
+Equipment Cleaning Log — React + TypeScript + Vite frontend with paginated cleaning records and a field-level audit trail view. Take-home assignment for Leucine.
+>>>>>>> ee5b988cd2a3b97fe2c7f8de6c548a548ad562b7
