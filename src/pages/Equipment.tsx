@@ -27,7 +27,7 @@ interface Equipment {
 const STATUS_OPTIONS = [
   { label: "All", value: "all" },
   { label: "Active", value: "active" },
-  { label: "Inactive", value: "inactive" },
+  { label: "retired", value: "inactive" },
 ];
 
 function Equipment() {
